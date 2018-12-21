@@ -1,2 +1,2 @@
 
-对于高性能JavaScript的对书总结
+对于高性能JavaScript的总结
